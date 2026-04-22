@@ -100,7 +100,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitKrSingh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=a78bfa&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKrSingh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKrSingh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&hide=jupyter%20notebook,html" />
 </div>
 
 <div align="center">
@@ -115,7 +115,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
