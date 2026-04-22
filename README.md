@@ -19,7 +19,8 @@
 - 🤖 &nbsp;**MaRS Research Station** — ROS, Gazebo, SLAM &nbsp;|&nbsp; **Top 5 Globally @ ERC 2025** 🏆
 - 🧬 &nbsp;**Deep Learning** is home — LSTMs, GRUs, CNNs, RAG pipelines
 - 🌐 &nbsp;**Full-stack** in Next.js + TypeScript, edging toward **Web3**
-- 🔭 &nbsp;Currently building: **Pod Gear** gaming platform + AI-powered backends
+- 🔭 &nbsp;Currently building: **Pod Gear** — a full-scale gaming e-commerce platform
+- 🎯 &nbsp;**Kaggle Rank #1** — Hindi/Tamil character classification
 - 📫 &nbsp;`arpitkumarsingh9470@gmail.com`
 
 <br clear="right"/>
@@ -53,8 +54,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
@@ -84,6 +87,7 @@
 
 | 🧪 Project | 💡 What it does | 🔧 Stack |
 | :--- | :--- | :--- |
+| 🎮 **Pod Gear** ⭐ | Full-scale gaming e-commerce platform — tiered memberships, payment integration, admin panel automation, and Redis-powered performance | `Next.js` `TypeScript` `Express` `Supabase` `Redis` `Stripe` `Tailwind` `Framer Motion` |
 | 🎬 **[TubeTalkAI](https://github.com/ArpitKrSingh7/TubeTalkAI)** | Chat with YouTube videos — timestamped RAG answers via hybrid graph + vector retrieval | `LangChain` `LangGraph` `Neo4j` `Qdrant` `Gemini` |
 | 🕳️ **[RoadSafe](https://github.com/ArpitKrSingh7)** | Microservices pothole detector — LSTM on live IMU data with spatial clustering | `FastAPI` `Keras` `PostgreSQL` `React Native` |
 | 🔍 **[RepoExplainer](https://github.com/ArpitKrSingh7/tamboBackend)** | Paste a GitHub URL → AI architecture summary + smart codebase Q&A | `Express` `Gemini` `Octokit` `MongoDB` |
@@ -104,14 +108,6 @@
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitKrSingh7&bg_color=0D1117&color=38BDF8&line=a78bfa&point=38BDF8&area=true&hide_border=true" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitKrSingh7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
