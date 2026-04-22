@@ -12,21 +12,22 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-### 🧠 About Me
+###  About Me
 
-- ⚙️ &nbsp;**Backend & Systems** — Architecting scalable microservices, databases, and APIs.
-- 🌐 &nbsp;**Full-stack** — Building fluid web products in Next.js + TypeScript, edging toward Web3.
-- 🧬 &nbsp;**Deep Learning** — LSTMs, GRUs, CNNs, and complex RAG pipelines.
-- 🤖 &nbsp;**Robotics @ MaRS** — ROS, Gazebo, SLAM &nbsp;|&nbsp; **Top 5 Globally @ ERC 2025** 🏆
-- 🔭 &nbsp;**Currently building:** Pod Gear — a full-scale gaming e-commerce platform.
-- 🎯 &nbsp;**Kaggle Rank #1** — Hindi/Tamil character classification.
-- 📫 &nbsp;Reach out: `arpitkumarsingh9470@gmail.com`
+-  &nbsp;**Backend & Systems** — Architecting scalable microservices, databases, and APIs.
+- &nbsp;**Full-stack** — Building fluid web products in Next.js + TypeScript, edging toward Web3.
+-  &nbsp;**Currently building:** Pod Gear — a full-scale gaming e-commerce platform.
+-  &nbsp;**Deep Learning** — LSTMs, GRUs, CNNs, and complex RAG pipelines.
+-  &nbsp;**Robotics @ MaRS** — ROS, Gazebo, SLAM &nbsp;|&nbsp; **Top 5 Globally @ ERC 2025** 🏆
+
+-  &nbsp;**Kaggle Rank #1** — Hindi/Tamil character classification.
+-  &nbsp;Reach out: `arpitkumarsingh9470@gmail.com`
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Arsenal
+###  Arsenal
 
 <table>
   <tr>
@@ -50,7 +51,7 @@
   </td>
   <td valign="top" width="33%">
 
-**🌐 Frontend & Core**
+** Frontend & Core**
 <br><br>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -61,7 +62,7 @@
   </td>
   <td valign="top" width="33%">
 
-**🤖 AI & Robotics**
+** AI & Robotics**
 <br><br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -78,25 +79,25 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
-| 🧪 Project | 💡 What it does | 🔧 Stack |
+|  Project |  What it does |  Stack |
 | :--- | :--- | :--- |
-| 🎮 **Pod Gear** ⭐ | Full-scale gaming e-commerce platform — tiered memberships, payment integration, admin panel automation, and Redis-powered performance | `Next.js` `TypeScript` `Express` `Supabase` `Redis` `Stripe` `Tailwind` `Framer Motion` |
-| 🎬 **[TubeTalkAI](https://github.com/ArpitKrSingh7/TubeTalkAI)** | Chat with YouTube videos — timestamped RAG answers via hybrid graph + vector retrieval | `LangChain` `LangGraph` `Neo4j` `Qdrant` `Gemini` |
-| 🕳️ **[RoadSafe](https://github.com/ArpitKrSingh7)** | Microservices pothole detector — LSTM on live IMU data with spatial clustering | `FastAPI` `Keras` `PostgreSQL` `React Native` |
-| 🔍 **[RepoExplainer](https://github.com/ArpitKrSingh7/tamboBackend)** | Paste a GitHub URL → AI architecture summary + smart codebase Q&A | `Express` `Gemini` `Octokit` `MongoDB` |
-| 🎙️ **[VoiceBasedCursor](https://github.com/ArpitKrSingh7/VoiceBasedCursor)** | Voice AI that executes shell commands via natural language with human-in-the-loop safety | `LangGraph` `GPT-4` `PyMongo` `STT/TTS` |
-| 🏃 **[HAR — LSTM/GRU](https://github.com/ArpitKrSingh7/HumanActivityRecognition)** | 93% test accuracy activity recognition on raw smartphone IMU data | `PyTorch` `scikit-learn` `UCI HAR` |
-| 🛰️ **MaRS Rover** | Autonomous rover simulation — SLAM, navigation, sensor fusion | `ROS` `Gazebo` `Python` `C++` |
+|  **Pod Gear** ⭐ | Full-scale gaming e-commerce platform - tiered memberships, payment integration, admin panel automation, and Redis-powered performance | `Next.js` `TypeScript` `Express` `Supabase` `Redis` `Stripe` `Tailwind` `Framer Motion` |
+|  **[TubeTalkAI](https://github.com/ArpitKrSingh7/TubeTalkAI)** | Chat with YouTube videos - timestamped RAG answers via hybrid graph + vector retrieval | `LangChain` `LangGraph` `Neo4j` `Qdrant` `Gemini` |
+| **[RoadSafe](https://github.com/ArpitKrSingh7)** | Microservices pothole detector - LSTM on live IMU data with spatial clustering | `FastAPI` `Keras` `PostgreSQL` `React Native` |
+|  **[RepoExplainer](https://github.com/ArpitKrSingh7/tamboBackend)** | Paste a GitHub URL → AI architecture summary + smart codebase Q&A | `Express` `Gemini` `Octokit` `MongoDB` |
+|  **[VoiceBasedCursor](https://github.com/ArpitKrSingh7/VoiceBasedCursor)** | Voice AI that executes shell commands via natural language with human-in-the-loop safety | `LangGraph` `GPT-4` `PyMongo` `STT/TTS` |
+|  **[HAR — LSTM/GRU](https://github.com/ArpitKrSingh7/HumanActivityRecognition)** | 93% test accuracy activity recognition on raw smartphone IMU data | `PyTorch` `scikit-learn` `UCI HAR` |
+|  **MaRS Rover** | Autonomous rover simulation — SLAM, navigation, sensor fusion | `ROS` `Gazebo` `Python` `C++` |
 
 </div>
 
 ---
 
-### 📊 GitHub Grind
+###  GitHub Grind
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitKrSingh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=a78bfa&count_private=true&include_all_commits=true" />
@@ -109,13 +110,14 @@
 
 ---
 
-### 🐍 Watch My Contributions Get Eaten
+
+###  Watch My Contributions Get Eaten
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" width="98%" src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
