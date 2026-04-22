@@ -27,13 +27,13 @@
 
 ###  About Me
 
--  &nbsp;**Backend & Systems** — Architecting scalable microservices, databases, and APIs.
--  &nbsp;**Full-stack** — Building fluid web products in Next.js + TypeScript, edging toward Web3.
--  &nbsp;**Currently building:** Pod Gear — a full-scale gaming e-commerce platform.
--  &nbsp;**Deep Learning** — LSTMs, GRUs, CNNs, and complex RAG pipelines.
--  &nbsp;**Robotics @ MaRS** — ROS, Gazebo, SLAM &nbsp;|&nbsp; **Top 5 Globally @ ERC 2025** 🏆
--  &nbsp;**Kaggle Rank #1** — Hindi/Tamil character classification.
--  &nbsp;Reach out: `arpitkumarsingh9470@gmail.com`
+- &nbsp;**Backend & Systems** — Architecting scalable microservices, databases, and APIs.
+- &nbsp;**Full-stack** — Building fluid web products in Next.js + TypeScript, edging toward Web3.
+- &nbsp;**Currently building:** Pod Gear — a full-scale gaming e-commerce platform.
+- &nbsp;**Deep Learning** — LSTMs, GRUs, CNNs, and complex RAG pipelines.
+- &nbsp;**Robotics @ MaRS** — ROS, Gazebo, SLAM &nbsp;|&nbsp; **Top 5 Globally @ ERC 2025** 🏆
+- &nbsp;**Kaggle Rank #1** — Hindi/Tamil character classification.
+- &nbsp;Reach out: `arpitkumarsingh9470@gmail.com`
 
 <br clear="right"/>
 
