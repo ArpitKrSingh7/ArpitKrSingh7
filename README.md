@@ -25,7 +25,9 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-###  About Me
+### About Me
+
+I’m a CS dual-degree student at **IIITDM Chennai (IIITDM Kancheepuram)**, interested in backend systems, full-stack development, AI, and LLM applications.
 
 - &nbsp;**Backend & Systems** — Architecting scalable microservices, databases, and APIs.
 - &nbsp;**Full-stack** — Building fluid web products in Next.js + TypeScript, edging toward Web3.
@@ -39,7 +41,7 @@
 
 ---
 
-###  Arsenal
+### Arsenal
 
 <table>
   <tr>
@@ -67,6 +69,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
   </td>
+
   <td valign="top" width="33%">
 
 **Frontend & Core**
@@ -79,6 +82,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   </td>
+
   <td valign="top" width="33%">
 
 **AI & Robotics**
@@ -101,19 +105,19 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 <div align="center">
 
-|  Project |  What it does |  Stack |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
 | 🎮 **Pod Gear** ⭐ | Full-scale gaming e-commerce platform — tiered memberships, payment integration, admin panel automation, and Redis-powered performance | `Next.js` `TypeScript` `Express` `Supabase` `Redis` `Stripe` `Tailwind` `Framer Motion` |
-|  **[TubeTalkAI](https://github.com/ArpitKrSingh7/TubeTalkAI)** | Chat with YouTube videos - timestamped RAG answers via hybrid graph + vector retrieval | `LangChain` `LangGraph` `Neo4j` `Qdrant` `Gemini` |
-|  **[RoadSafe](https://github.com/ArpitKrSingh7)** | Microservices pothole detector - LSTM on live IMU data with spatial clustering | `FastAPI` `Keras` `PostgreSQL` `React Native` |
-|  **[RepoExplainer](https://github.com/ArpitKrSingh7/tamboBackend)** | Paste a GitHub URL → AI architecture summary + smart codebase Q&A | `Express` `Gemini` `Octokit` `MongoDB` |
-|  **[VoiceBasedCursor](https://github.com/ArpitKrSingh7/VoiceBasedCursor)** | Voice AI that executes shell commands via natural language with human-in-the-loop safety | `LangGraph` `GPT-4` `PyMongo` `STT/TTS` |
-|  **[HAR — LSTM/GRU](https://github.com/ArpitKrSingh7/HumanActivityRecognition)** | 93% test accuracy activity recognition on raw smartphone IMU data | `PyTorch` `scikit-learn` `UCI HAR` |
-|  **MaRS Rover** | Autonomous rover simulation — SLAM, navigation, sensor fusion | `ROS` `Gazebo` `Python` `C++` |
+| **[TubeTalkAI](https://github.com/ArpitKrSingh7/TubeTalkAI)** | Chat with YouTube videos - timestamped RAG answers via hybrid graph + vector retrieval | `LangChain` `LangGraph` `Neo4j` `Qdrant` `Gemini` |
+| **[RoadSafe](https://github.com/ArpitKrSingh7)** | Microservices pothole detector - LSTM on live IMU data with spatial clustering | `FastAPI` `Keras` `PostgreSQL` `React Native` |
+| **[RepoExplainer](https://github.com/ArpitKrSingh7/tamboBackend)** | Paste a GitHub URL → AI architecture summary + smart codebase Q&A | `Express` `Gemini` `Octokit` `MongoDB` |
+| **[VoiceBasedCursor](https://github.com/ArpitKrSingh7/VoiceBasedCursor)** | Voice AI that executes shell commands via natural language with human-in-the-loop safety | `LangGraph` `GPT-4` `PyMongo` `STT/TTS` |
+| **[HAR — LSTM/GRU](https://github.com/ArpitKrSingh7/HumanActivityRecognition)** | 93% test accuracy activity recognition on raw smartphone IMU data | `PyTorch` `scikit-learn` `UCI HAR` |
+| **MaRS Rover** | Autonomous rover simulation — SLAM, navigation, sensor fusion | `ROS` `Gazebo` `Python` `C++` |
 
 </div>
 
@@ -122,31 +126,63 @@
 ### GitHub Grind
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitKrSingh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=a78bfa&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKrSingh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&hide=jupyter%20notebook,html" />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ArpitKrSingh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=a78bfa&count_private=true&include_all_commits=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKrSingh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&hide=jupyter%20notebook,html"
+  />
+
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitKrSingh7&bg_color=0D1117&color=38BDF8&line=a78bfa&point=38BDF8&area=true&hide_border=true" />
+
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitKrSingh7&bg_color=0D1117&color=38BDF8&line=a78bfa&point=38BDF8&area=true&hide_border=true"
+  />
+
 </div>
 
 ---
 
-###  Watch My Contributions Get Eaten
+### Watch My Contributions Get Eaten
 
 <div align="center">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" width="98%" src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="github-snake"
+      width="98%"
+      src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg"
+    />
   </picture>
+
 </div>
 
 ---
 
 <!-- Closing Quote -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:1a1035,100:0f0c29&height=90&text=Do%20the%20work.%20Own%20the%20process.%20Release%20the%20outcome.&fontSize=17&fontColor=a78bfa&fontAlignY=45&desc=—%20Bhagavad%20Gita%2C%202.47&descSize=13&descColor=38BDF8&descAlignY=72" />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:1a1035,100:0f0c29&height=90&text=Do%20the%20work.%20Own%20the%20process.%20Release%20the%20outcome.&fontSize=17&fontColor=a78bfa&fontAlignY=45&desc=—%20Bhagavad%20Gita%2C%202.47&descSize=13&descColor=38BDF8&descAlignY=72"
+  />
+
 </div>
 
 <div align="center">
@@ -155,6 +191,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArpitKrSingh7&color=a78bfa&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"
+/>
 
 </div>
