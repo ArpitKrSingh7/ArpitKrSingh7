@@ -166,10 +166,11 @@ I’m a CS dual-degree student at **IIITDM Chennai (IIITDM Kancheepuram)**, inte
     />
 
     <img
-      alt="github-snake"
+      alt="GitHub contribution snake animation"
       width="98%"
-      src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake-dark.svg"
+      src="https://raw.githubusercontent.com/ArpitKrSingh7/ArpitKrSingh7/output/github-contribution-grid-snake.svg"
     />
+
   </picture>
 
 </div>
